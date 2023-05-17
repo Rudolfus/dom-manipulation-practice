@@ -51,7 +51,7 @@ const allParagraphsInProductsElm_Alternative = document.querySelectorAll("#produ
 const pikachuElm = document.getElementById("pikachu");
 pikachuElm.innerHTML = `
     <div>
-        <p>one<p>
+        <p>one</p>
         <p>two
             <a href="#">click here for more info</a>
         <p>
